@@ -1,0 +1,25 @@
+.game-board {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px auto;
+  width: fit-content;
+}
+
+.board-row {
+  display: flex;
+}
+
+.board-cell {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ddd;
+}
+
+.snake-cell {
+  background-color: #4caf50;
+}
+
+.food-cell {
+  background-color: #ff5722;
+}

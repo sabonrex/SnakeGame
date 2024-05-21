@@ -5,7 +5,7 @@ A simple Snake game built with React. The player controls a snake that moves aro
 
 Features
 
-Classic Snake gameplay
-Responsive controls using arrow keys
-Dynamic game speed that increases as the snake eats food
-Basic collision detection for game over conditions
+- Classic Snake gameplay
+- Responsive controls using arrow keys
+- Dynamic game speed that increases as the snake eats food
+- Basic collision detection for game over conditions
